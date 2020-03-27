@@ -13,23 +13,23 @@ The goal of #CodeVsCOVID19, a 72-hour nonprofit online hackathon, is to develop 
 
 ## 2. Timeline
 
-| Date                | Time                 | Event                    |
-| :------------------ |:-------------------- | :----------------------- |
-| Friday, March 27    | 05:00 PM             | Opening Ceremony |
-| Friday, March 27    | 09:00 - 11:00 PM     | Friday Night Music |
-| Saturday, March 28  | 09:00 – 09:10 AM     | Meditation |
-| Saturday, March 28  | 12:00 – 12:15 PM     | Yoga Session: Refocus/Re-energize|
-| Saturday, March 28  | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
-| Saturday, March 28  | 05:00 - 05:30 PM     | Interviews with Experts, Mentors, & Partners |
-| Saturday, March 28  | Starting at 07:00 PM | Saturday Night Music |
-| Sunday, March 29    | 09:00 – 09:10 AM     | Meditation |
-| Sunday, March 29    | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
-| Sunday, March 29    | 12:00 – 12:15 PM     | Movement Session |
-| Sunday, March 29    | 05:00 - 05:30 PM     | Interviews with Experts, Mentors, & Partners |
-| Monday, March 30    | 09:00 – 09:10 AM     | Meditation |
-| Monday, March 30    | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
-| Monday, March 30    | 12:00 – 12:15 PM     | Movement Session |
-| **Monday, March 30  | 05:00 PM             | Project Submission Deadline** |
-| Monday, March 30    | 05:00 PM             | Public voting starts |
-| Tuesday, March 31   | 05:00 PM             | Community voting ends |
-| **Tuesday, March 31 | 05:30 PM             | Announcement of the winners** |
+| Date                  | Time                 | Event                    |
+| :-------------------- |:-------------------- | :----------------------- |
+| Friday, March 27      | 05:00 PM             | Opening Ceremony |
+| Friday, March 27      | 09:00 - 11:00 PM     | Friday Night Music |
+| Saturday, March 28    | 09:00 – 09:10 AM     | Meditation |
+| Saturday, March 28    | 12:00 – 12:15 PM     | Yoga Session: Refocus/Re-energize|
+| Saturday, March 28    | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
+| Saturday, March 28    | 05:00 - 05:30 PM     | Interviews with Experts, Mentors, & Partners |
+| Saturday, March 28    | Starting at 07:00 PM | Saturday Night Music |
+| Sunday, March 29      | 09:00 – 09:10 AM     | Meditation |
+| Sunday, March 29      | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
+| Sunday, March 29      | 12:00 – 12:15 PM     | Movement Session |
+| Sunday, March 29      | 05:00 - 05:30 PM     | Interviews with Experts, Mentors, & Partners |
+| Monday, March 30      | 09:00 – 09:10 AM     | Meditation |
+| Monday, March 30      | All day              | Hacking, Mentor Sessions, Project Updates, & Challenges |
+| Monday, March 30      | 12:00 – 12:15 PM     | Movement Session |
+| **Monday, March 30**  | **05:00 PM**         | **Project Submission Deadline** |
+| Monday, March 30      | 05:00 PM             | Public voting starts |
+| Tuesday, March 31     | 05:00 PM             | Community voting ends |
+| **Tuesday, March 31** | **05:30 PM**         | **Announcement of the winners** |
