@@ -6,10 +6,10 @@ The goal of #CodeVsCOVID19, a 72-hour nonprofit online hackathon, is to develop 
 
 ## 1. Tools
 
-* [WhatsApp](https://chat.whatsapp.com/Cr7cj5kwL4JLW9uipUGGys)
-* [Slack](codevscovid19.slack.com)
-* [GitHub](https://github.com/cvalerosa/CodeVsCOVID19)
-* [Devpost](https://codevscovid19.devpost.com)
+* [WhatsApp](https://chat.whatsapp.com/Cr7cj5kwL4JLW9uipUGGys) &rarr; Reminders
+* [Slack](codevscovid19.slack.com) &rarr; Hackathon announcements
+* [GitHub](https://github.com/cvalerosa/CodeVsCOVID19) &rarr; Uploads
+* [Devpost](https://codevscovid19.devpost.com) &rarr; Submission
 
 ## 2. Timeline
 
