@@ -6,7 +6,7 @@ The goal of #CodeVsCOVID19, a 72-hour nonprofit online hackathon, is to develop 
 
 ## 1. Tools
 
-* [WhatsApp]()
+* [WhatsApp](https://chat.whatsapp.com/Cr7cj5kwL4JLW9uipUGGys)
 * [Slack](codevscovid19.slack.com)
 * [GitHub](https://github.com/cvalerosa/CodeVsCOVID19)
 * [Devpost](https://codevscovid19.devpost.com)
@@ -32,4 +32,4 @@ The goal of #CodeVsCOVID19, a 72-hour nonprofit online hackathon, is to develop 
 | **Monday, March 30, 2020**  | **05:00 PM**         | **Project Submission Deadline** |
 | Monday, March 30, 2020      | 05:00 PM             | Public voting starts |
 | Tuesday, March 31, 2020     | 05:00 PM             | Community voting ends |
-| **Tuesday, March 31, 2020** | 05:30 PM             | Announcement of the winners |
+| **Tuesday, March 31, 2020** | **05:30 PM**         | **Announcement of the winners** |
